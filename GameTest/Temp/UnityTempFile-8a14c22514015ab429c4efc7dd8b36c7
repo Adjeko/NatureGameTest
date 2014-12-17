@@ -1,0 +1,92 @@
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-debug
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_4_6_0
+-define:UNITY_4_6
+-define:UNITY_ANDROID
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_4_6_FEATURES
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:UNITY_ANDROID_API
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/ContrastStretchEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/GlowEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/ImageEffectBase.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/MotionBlur.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/SSAOEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs"
+"Assets/2d Art Pack/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/BackgroundParallax.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/BackgroundPropSpawner.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Bomb.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/BombPickup.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/CameraFollow.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Destroyer.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Enemy.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/FollowPlayer.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Gun.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/HealthPickup.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/LayBombs.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/ParticleSortingLayer.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Pauser.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/PickupSpawner.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/PlayerControl.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/PlayerHealth.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Remover.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Rocket.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Score.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/ScoreShadow.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/SetParticleSortingLayer.cs"
+"Assets/2d Art Pack/Unity 2d Project Assets/Scripts/Spawner.cs"
+Assets/CustomMovementAsset/Scripts/CustomMovement.cs
+Assets/CustomMovementAsset/Scripts/ElementManager.cs
+Assets/Destroy2.cs
+"Assets/Level01 Assets/Scripts/DebugUI.cs"
+"Assets/Level01 Assets/Scripts/ElementChanger.cs"
+"Assets/Level01 Assets/Scripts/TutorialTrigger.cs"
+"Assets/Level02 Assets/DebugText.cs"
+"Assets/fürmich/Scripts/ChangeScene.cs"
+"Assets/fürmich/Scripts/FlameLayer.cs"
+"Assets/fürmich/Scripts/MenuInput.cs"
+Assets/unity-2d-water-effect-master/unity-2d-water-effect-master/assets/Scripts/Clickspawn.cs
+Assets/unity-2d-water-effect-master/unity-2d-water-effect-master/assets/Scripts/Water.cs
+Assets/unity-2d-water-effect-master/unity-2d-water-effect-master/assets/Scripts/WaterDetector.cs
+Assets/water.cs
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
